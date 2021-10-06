@@ -18,3 +18,4 @@ Given a tournament of ```n``` participants ```p```, for each round ```r``` in th
 ##### Expected ouput pairs
 * 1 v 4
 * 3 v 2
+* 5 (bye)
